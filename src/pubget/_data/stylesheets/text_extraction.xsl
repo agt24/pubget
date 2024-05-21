@@ -204,8 +204,8 @@
   <xsl:template match="named-content" />
   <xsl:template match="nlm-citation" />
   <xsl:template match="note" />
-  <xsl:template match="notes" />
-  <xsl:template match="oasis:table" />
+  <!-- <xsl:template match="notes" /> -->
+  <xsl:template match="oasis:table" /> 
   <xsl:template match="object-id" />
   <xsl:template match="on-behalf-of" />
   <xsl:template match="open-access" />
